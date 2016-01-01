@@ -1,10 +1,10 @@
 <?php
 
-$appname = 'Hermes';
+$appname = 'Parrot';
 
 $dbhost = 'localhost';
-$dbname = 'hermes';
+$dbname = 'parrot';
 $dbuser = getenv('LOCAL_DB_USER');
 $dbpass = getenv('LOCAL_DB_PASS');
 
-$home_url = '/Misc/Hermes';
+$home_url = '/Parrot';
